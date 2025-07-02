@@ -1,0 +1,15 @@
+{
+  "name": "ssafy",
+  "version": "1.0.0",
+  "main": "PJT#26_1347698.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "openai": "^5.8.2"
+  }
+}
