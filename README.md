@@ -14,9 +14,9 @@
 |10 | # 19 | 리뷰 데이터를 활용한 데이터 전처리 및 시각화 | ✅
 |11 | # 26 | Node.JS OpenAI API 연동 실습 |
 |12 | # 27 | 코딩테스트 채점 서버 만들기 |
-|13 | # 28 | 프론트엔드 프로젝트 토대 쌓기 |
+|13 | # 28 | 프론트엔드 프로젝트 토대 쌓기 | ✅
 |14 | # 32 | Faiss 및 chromadb를 활용한 유사어 검색 |
 |15 | # 33 | Google Colab 기반의 Face Recognition 입문 PJT |
 |16 | # 34 | Google Colab 기반의 Generative Adversarial Network 응용 PJT |
 |17 | # 35 | MySQL Maria DB Data Processing |
-|18 | # 36 | Collection 활용 |
+|18 | # 36 | Collection 활용 | ✅
