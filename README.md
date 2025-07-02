@@ -18,5 +18,5 @@
 |14 | # 32 | Faiss 및 chromadb를 활용한 유사어 검색 |
 |15 | # 33 | Google Colab 기반의 Face Recognition 입문 PJT |
 |16 | # 34 | Google Colab 기반의 Generative Adversarial Network 응용 PJT |
-|17 | # 35 | MySQL Maria DB Data Processing |
+|17 | # 35 | MySQL Maria DB Data Processing | ✅
 |18 | # 36 | Collection 활용 | ✅
